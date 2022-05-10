@@ -117,7 +117,7 @@ h3 {
 }
 .producto__precio {
     font-size: 1.8rem;
-    color: var(--secundario);   
+    color: var(--negro);   
 }
 @media (min-width: 768px) {
     .producto__precio {
